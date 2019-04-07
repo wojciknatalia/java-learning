@@ -1,3 +1,5 @@
+package Exercise3;
+
 public class Task3ver2 {
 
     public static void Rzutowanie(Nadrzedna3 nadrzedna){

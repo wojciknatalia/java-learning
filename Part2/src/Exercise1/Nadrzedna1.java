@@ -1,3 +1,5 @@
+package Exercise1;
+
 public class Nadrzedna1 {
     public void MetodaJeden(){
         System.out.println(this.getClass().getCanonicalName());
@@ -5,7 +7,7 @@ public class Nadrzedna1 {
     }
 
     public void MetodaDwa(){
-        System.out.println("Nadrzedna1 -> MetodaDwa");
+        System.out.println("Exercise1.Nadrzedna1 -> MetodaDwa");
     }
 
     public static void main(String[] args){

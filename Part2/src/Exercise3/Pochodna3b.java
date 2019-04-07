@@ -1,3 +1,5 @@
+package Exercise3;
+
 public class Pochodna3b extends Nadrzedna3{
     @Override
     public void print(){
