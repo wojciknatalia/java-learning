@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="12e08172-e0e1-4707-b7c7-42ea4e28bbb2" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="12e08172-e0e1-4707-b7c7-42ea4e28bbb2" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -86,7 +84,7 @@
         <entry file="file://$PROJECT_DIR$/src/ExtraExercise5/Circle.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="221">
-              <caret line="13" column="28" lean-forward="true" selection-start-line="13" selection-start-column="28" selection-end-line="13" selection-end-column="28" />
+              <caret line="13" column="28" selection-start-line="13" selection-start-column="28" selection-end-line="13" selection-end-column="28" />
               <folding>
                 <element signature="e#142#143#0" expanded="true" />
                 <element signature="e#168#169#0" expanded="true" />
@@ -107,7 +105,7 @@
         <entry file="file://$PROJECT_DIR$/src/ExtraExercise5/Rectangle.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="119">
-              <caret line="10" column="20" lean-forward="true" selection-start-line="10" selection-start-column="20" selection-end-line="14" selection-end-column="5" />
+              <caret line="10" column="20" selection-start-line="10" selection-start-column="20" selection-end-line="14" selection-end-column="5" />
               <folding>
                 <element signature="e#411#412#0" expanded="true" />
                 <element signature="e#433#434#0" expanded="true" />
@@ -254,12 +252,6 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="ExtraExercise4" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="Part2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Part2" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="ExtraExercise6" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -269,7 +261,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1554640888445" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1554640909027" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -307,18 +299,17 @@
       <updated>1554590390418</updated>
       <workItem from="1554590397272" duration="3466000" />
       <workItem from="1554594715648" duration="1348000" />
-      <workItem from="1554636477898" duration="4311000" />
+      <workItem from="1554636477898" duration="4665000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9125000" />
+    <option name="totallyTimeSpent" value="9479000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="713" y="44" width="980" height="827" extended-state="0" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1826087" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1826087" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -327,7 +318,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3443804" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.34582132" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.34582132" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -482,7 +473,7 @@
     <entry file="file://$PROJECT_DIR$/src/ExtraExercise5/Circle.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="221">
-          <caret line="13" column="28" lean-forward="true" selection-start-line="13" selection-start-column="28" selection-end-line="13" selection-end-column="28" />
+          <caret line="13" column="28" selection-start-line="13" selection-start-column="28" selection-end-line="13" selection-end-column="28" />
           <folding>
             <element signature="e#142#143#0" expanded="true" />
             <element signature="e#168#169#0" expanded="true" />
@@ -520,7 +511,7 @@
     <entry file="file://$PROJECT_DIR$/src/ExtraExercise5/Rectangle.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
-          <caret line="10" column="20" lean-forward="true" selection-start-line="10" selection-start-column="20" selection-end-line="14" selection-end-column="5" />
+          <caret line="10" column="20" selection-start-line="10" selection-start-column="20" selection-end-line="14" selection-end-column="5" />
           <folding>
             <element signature="e#411#412#0" expanded="true" />
             <element signature="e#433#434#0" expanded="true" />
