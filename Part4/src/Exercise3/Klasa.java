@@ -23,5 +23,5 @@ public class Klasa {
     Free memory: 126240304
     Omnomnom: 124240288
     After GC: 127893912
-    */
+*/
 }
