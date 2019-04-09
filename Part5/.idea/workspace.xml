@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3f65b92f-c4ca-486e-9d72-3e51282c02ef" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../Part4/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Part4/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="3f65b92f-c4ca-486e-9d72-3e51282c02ef" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -37,7 +35,7 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/ExtraExercise1/ThreadExample.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="395">
+            <state relative-caret-position="680">
               <caret line="40" column="115" selection-start-line="40" selection-start-column="115" selection-end-line="40" selection-end-column="115" />
             </state>
           </provider>
@@ -146,7 +144,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1554840882836" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1554840899229" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
@@ -181,16 +179,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1554799765359</updated>
-      <workItem from="1554799773827" duration="10137000" />
+      <workItem from="1554799773827" duration="10741000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10137000" />
+    <option name="totallyTimeSpent" value="10741000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="318" y="0" width="1239" height="867" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info id="Image Layers" />
       <window_info id="Designer" />
@@ -207,7 +204,7 @@
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.1880109" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.1880109" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -325,7 +322,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/ExtraExercise1/ThreadExample.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="395">
+        <state relative-caret-position="680">
           <caret line="40" column="115" selection-start-line="40" selection-start-column="115" selection-end-line="40" selection-end-column="115" />
         </state>
       </provider>
