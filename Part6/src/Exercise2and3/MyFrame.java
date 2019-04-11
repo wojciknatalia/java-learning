@@ -1,9 +1,11 @@
-package Exercise2;
+package Exercise2and3;
 
 import javax.swing.*;
 import java.awt.*;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
+import java.awt.event.AdjustmentEvent;
+import java.awt.event.AdjustmentListener;
 
 public class MyFrame extends JFrame {
 
@@ -54,9 +56,20 @@ public class MyFrame extends JFrame {
         frame.setPreferredSize(new Dimension(700,700));
 
         //dodanie panelu
-
         MyPanel panel=new MyPanel();
+
+        //dodanie scrollbaru
+        MyScrollBar scrollBar=new MyScrollBar(JScrollBar.HORIZONTAL, 2, 1, 1,10);
+        scrollBar.addAdjustmentListener(new AdjustmentListener() {
+            @Override
+            public void adjustmentValueChanged(AdjustmentEvent e) {
+                panel.setCycles(e.getValue());
+            }
+        });
+
         frame.add(panel);
+        frame.add(scrollBar);
+
         frame.pack();
         frame.setVisible(true);
     }

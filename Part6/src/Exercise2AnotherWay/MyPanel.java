@@ -49,7 +49,7 @@ public class MyPanel extends JPanel {
     MyPanel(){
         Border blackline=BorderFactory.createLineBorder(Color.BLACK, 1);
         setBorder(blackline);
-        setCycles(5);
+        setCycles(2);
         setPreferredSize(new Dimension(700,500));
     }
 }
