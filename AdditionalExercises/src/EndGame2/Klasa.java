@@ -19,7 +19,7 @@ public class Klasa {
             for (Field field : obj.getClass().getDeclaredFields()) {
                 field.setAccessible(true);
                 String name = field.getName();
-                String value = field.getType().toString();
+                String value = field.getType().getName();
                 System.out.println(x + ": " + name + " - " + value);
                 pola.add(field);
                 map.put(field, 1);
@@ -88,8 +88,10 @@ public class Klasa {
                     String type = field.getType().toString();
                     System.out.println(type+" - "+name + " - " + val);
                     //object.getClass().getDeclaredField(field.getName()).set(object, field.get(obj));
-
                 }
+                /*else{
+                    field.set(obj,(Object)null);
+                }*/
             }
             object=obj;
         }
