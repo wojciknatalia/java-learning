@@ -23,19 +23,27 @@ public class Gracz{
     }
 
     public void graA() throws InterruptedException{
+        setTablicaA();
         while (true){
-            synchronized (this){
+            synchronized (sedzia.lock){
+                while(sedzia.lock.flag!=1)
+                    sedzia.lock.wait();
                 sedzia.strzal1(rand.nextInt(9), rand.nextInt(9));
-                notify();
+                sedzia.lock.setVal(2);
+                sedzia.lock.notify();
             }
         }
     }
 
     public void graB() throws InterruptedException{
+        setTablicaB();
         while (true){
-            synchronized (this){
+            synchronized (sedzia.lock){
+                while(sedzia.lock.flag!=2)
+                    sedzia.lock.wait();
                 sedzia.strzal2(rand.nextInt(9), rand.nextInt(9));
-                notify();
+                sedzia.lock.setVal(1);
+                sedzia.lock.notify();
             }
         }
     }

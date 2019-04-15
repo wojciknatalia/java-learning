@@ -9,6 +9,7 @@ public class Gra {
         final Gracz graczB=new Gracz(sedzia);
         graczA.setTablicaA();
         graczB.setTablicaB();
+        sedzia.lock.setVal(1);
 
         Thread tA=new Thread(new Runnable() {
             @Override
