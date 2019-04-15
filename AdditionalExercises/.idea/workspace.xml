@@ -3,8 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="f396c603-25a8-488a-80e3-41ce9506df62" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/AdditionalExercises/EndGame2/Klasa.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AdditionalExercises/EndGame2/Klasa.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/EndGame2/Klasa.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/EndGame2/Klasa.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/EndGame2/ExampleClas.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Serialization/ExampleClas.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/EndGame2/Klasa.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Serialization/Klasa.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -16,10 +16,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/ScannerExample/ScannerExample.java">
+        <entry file="file://$PROJECT_DIR$/src/Serialization/Klasa.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+            <state relative-caret-position="278">
+              <caret line="71" column="23" selection-start-line="71" selection-start-column="22" selection-end-line="71" selection-end-column="23" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -28,22 +28,28 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/EndGame2/Klasa.java">
+        <entry file="file://$PROJECT_DIR$/src/Filozofowie/Filozof.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-708">
-              <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="442">
+              <caret line="26" selection-start-line="26" selection-end-line="26" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Filozofowie/Stol.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="421">
+              <caret line="25" column="27" selection-start-line="25" selection-start-column="27" selection-end-line="25" selection-end-column="27" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Szpital/Pokoj.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="373">
-              <caret line="52" selection-start-line="52" selection-end-line="52" />
+            <state relative-caret-position="288">
+              <caret line="17" column="5" lean-forward="true" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#637#638#0" expanded="true" />
@@ -74,15 +80,6 @@
               <folding>
                 <element signature="e#191#192#0" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/EndGame1/Stol.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="24" column="73" selection-start-line="24" selection-start-column="73" selection-end-line="24" selection-end-column="73" />
             </state>
           </provider>
         </entry>
@@ -121,7 +118,7 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/EndGame2/ExampleClas.java">
+        <entry file="file://$PROJECT_DIR$/src/Serialization/ExampleClas.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="68">
               <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
@@ -159,6 +156,9 @@
         <option value="$PROJECT_DIR$/src/Szpital/Osoba.java" />
         <option value="$PROJECT_DIR$/src/Szpital/Lekarz.java" />
         <option value="$PROJECT_DIR$/src/Szpital/Pokoj.java" />
+        <option value="$PROJECT_DIR$/src/PieciuFilozofow.java" />
+        <option value="$PROJECT_DIR$/src/Filozofowie/Filozof.java" />
+        <option value="$PROJECT_DIR$/src/Filozofowie/Stol.java" />
       </list>
     </option>
   </component>
@@ -199,19 +199,7 @@
               <item name="AdditionalExercises" type="b2602c69:ProjectViewProjectNode" />
               <item name="AdditionalExercises" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="EndGame2" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="AdditionalExercises" type="b2602c69:ProjectViewProjectNode" />
-              <item name="AdditionalExercises" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Statki" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="AdditionalExercises" type="b2602c69:ProjectViewProjectNode" />
-              <item name="AdditionalExercises" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Szpital" type="462c0819:PsiDirectoryNode" />
+              <item name="Filozofowie" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -222,7 +210,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1555364729876" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1555366214174" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -243,8 +231,8 @@
     </option>
   </component>
   <component name="RunManager">
-    <configuration name="Pokoj" type="Application" factoryName="Application" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Szpital.Pokoj" />
+    <configuration name="Stol" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Filozofowie.Stol" />
       <module name="AdditionalExercises" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -265,16 +253,15 @@
       <workItem from="1555190814260" duration="10148000" />
       <workItem from="1555228524188" duration="20017000" />
       <workItem from="1555321345697" duration="1716000" />
-      <workItem from="1555338214548" duration="15967000" />
+      <workItem from="1555338214548" duration="17443000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="49506000" />
+    <option name="totallyTimeSpent" value="50982000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="711" y="0" width="915" height="866" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21637426" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -367,23 +354,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/EndGame2/ExampleClas.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/EndGame2/Klasa.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-708">
-          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Statki/Gracz.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="108">
@@ -427,13 +397,51 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Szpital/Pokoj.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="373">
-          <caret line="52" selection-start-line="52" selection-end-line="52" />
+        <state relative-caret-position="288">
+          <caret line="17" column="5" lean-forward="true" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#637#638#0" expanded="true" />
             <element signature="e#684#685#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Serialization/ExampleClas.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/PieciuFilozofow.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="28" selection-start-column="28" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Serialization/Klasa.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="278">
+          <caret line="71" column="23" selection-start-line="71" selection-start-column="22" selection-end-line="71" selection-end-column="23" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Filozofowie/Filozof.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="26" selection-start-line="26" selection-end-line="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Filozofowie/Stol.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="421">
+          <caret line="25" column="27" selection-start-line="25" selection-start-column="27" selection-end-line="25" selection-end-column="27" />
         </state>
       </provider>
     </entry>

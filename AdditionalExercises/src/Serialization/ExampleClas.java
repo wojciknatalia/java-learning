@@ -1,4 +1,4 @@
-package EndGame2;
+package Serialization;
 
 import java.io.Serializable;
 
