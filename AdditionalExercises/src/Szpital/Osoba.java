@@ -4,7 +4,7 @@ import java.util.Random;
 
 public class Osoba implements Runnable {
 
-    Pokoj pokoj;
+    volatile Pokoj pokoj;
     Random rand = new Random();
 
     Osoba(Pokoj room) {

@@ -25,6 +25,5 @@ public class Stol {
             Thread thread=new Thread(filozofowie[i],"Filozof "+(i+1));
             thread.start();
         }
-
     }
 }

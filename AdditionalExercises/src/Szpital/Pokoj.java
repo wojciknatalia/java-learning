@@ -48,6 +48,8 @@ public class Pokoj {
         t2.start();
 
         while(true){
+
+
             Thread.sleep(500);
             System.out.println("Szpital zawiera "+sala.lekarzFlaga+" lekarzy i "+sala.osoby.size()+" odwiedzających");
         }
